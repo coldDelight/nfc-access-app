@@ -1,11 +1,32 @@
 # nfc-access-system-app
+![screen – 11](https://user-images.githubusercontent.com/94586184/230760518-8f07a8d3-77c9-4f16-8caa-46e00e266fde.png)
 
-## 2021. 06 ~ 2021. 10
+```
+❓ nfc기반 전자출입명부 시스템
+```
+- 프로젝트 기간 : `2021.06` ~ `2021.10`
 
-NFC 　전자출입명부 시스템 App
+# :one: Screenshots
 
-Kiosk에 웨어러블 기기 NFC통신을 이용한 전자출입명부 작성이 가능하며 관리자 웹 기반 관리 시스템을 통해 출입자 현황 파악 및 통계 관리하는 시스템
+| | | | | |
+|-|-|-|-|-|
+| ![KakaoTalk_20211006_191145237_09](https://user-images.githubusercontent.com/94586184/230761020-c9844edf-7730-4227-b13d-65d121948a92.jpg) | ![KakaoTalk_20211006_191145237_04](https://user-images.githubusercontent.com/94586184/230761046-c46eb56a-c41c-48c6-a929-1fee2ac247b7.jpg) | ![KakaoTalk_20211006_191145237_02](https://user-images.githubusercontent.com/94586184/230761053-a9789fbb-f155-4c51-8dee-e8bdd743894c.jpg) |![KakaoTalk_20211006_191145237_01](https://user-images.githubusercontent.com/94586184/230761060-e2fd6fdc-ed05-43ad-b310-35f4aa0e8cc4.jpg)| ![KakaoTalk_20211006_191145237](https://user-images.githubusercontent.com/94586184/230761061-f3b8391b-9ee2-49b5-9d0e-8fddef0e4889.jpg) |
 
-## 담당한 기능(App)
+# :two: Skill
 
-- flutter를 이용해 사용자가 웨어러블 기기를 등록하는데 사용하는 App 개발
+- flutter
+- firebase
+- getx
+- lottie
+
+# :three: Structure
+
+```
+📦 lib
+ ┣ 📂 common
+ ┣ 📂 data
+ ┣ 📂 src
+ ┃ ┗ 📂 controller
+ ┃ ┗ 📂 page
+```
+
